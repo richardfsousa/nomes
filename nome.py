@@ -1,0 +1,1 @@
+n = str(input("informe um nome :"))
